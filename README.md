@@ -11,7 +11,7 @@
 - zustand
 
 ## ScreenShot
-![image](/odyssee-admin/src/assets/ody1.png)
+![image](/odyssee-admin/src/assets/ody1.png?raw=true)
 ![image](/odyssee-admin/src/assets/ody2.png)
 ![image](/odyssee-admin/src/assets/ody3.png)
 ![image](/odyssee-admin/src/assets/ody4.png)
